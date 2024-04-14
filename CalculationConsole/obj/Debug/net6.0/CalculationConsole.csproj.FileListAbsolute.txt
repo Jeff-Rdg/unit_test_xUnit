@@ -1,0 +1,15 @@
+D:\Projects\c#\CalculationConsole\CalculationConsole\bin\Debug\net6.0\CalculationConsole.exe
+D:\Projects\c#\CalculationConsole\CalculationConsole\bin\Debug\net6.0\CalculationConsole.deps.json
+D:\Projects\c#\CalculationConsole\CalculationConsole\bin\Debug\net6.0\CalculationConsole.runtimeconfig.json
+D:\Projects\c#\CalculationConsole\CalculationConsole\bin\Debug\net6.0\CalculationConsole.dll
+D:\Projects\c#\CalculationConsole\CalculationConsole\bin\Debug\net6.0\CalculationConsole.pdb
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.csproj.AssemblyReference.cache
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.AssemblyInfoInputs.cache
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.AssemblyInfo.cs
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.csproj.CoreCompileInputs.cache
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.dll
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\refint\CalculationConsole.dll
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.pdb
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\CalculationConsole.genruntimeconfig.cache
+D:\Projects\c#\CalculationConsole\CalculationConsole\obj\Debug\net6.0\ref\CalculationConsole.dll

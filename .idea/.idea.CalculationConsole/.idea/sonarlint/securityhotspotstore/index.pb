@@ -1,0 +1,29 @@
+
+M
+CalculationConsole/Program.cs,e\3\e32b17bb4ac9e3633dfbf50af34d8f0ae166184d
+O
+CalculationConsole/Operation.cs,9\c\9cf7e839f9104ae2e1dc1fe6cc6c0026677b715d
+S
+#CalculationConsole/OperationTest.cs,c\c\cc4b9394c7f74dd0d45e44a59118d6c9d8ca28a5
+P
+ CalculationConsoleTest/Usings.cs,2\6\26009be01ba9baf1c9d3ba4b5a3b69a9b0db327b
+W
+'CalculationConsoleTest/OperationTest.cs,6\e\6eee3be8fd25bc4a989ea0e9f67ad19f3c40fe5f
+d
+4CalculationConsoleTest/CalculationConsoleTest.csproj,2\f\2ffd54867f8c782aa640f57a16d02882b2618154
+~
+NCalculationConsoleTest/obj/Debug/net6.0/CalculationConsoleTest.AssemblyInfo.cs,a\5\a598a7edd20349d9a7f1b92b8c27979d181cc071
+v
+FCalculationConsole/obj/Debug/net6.0/CalculationConsole.AssemblyInfo.cs,d\5\d5f29385aa628bd37b083b492a94d7333d4afe13
+\
+,CalculationConsole/CalculationConsole.csproj,0\a\0aad1d177607aeafd32e6f011c1a7b917b16ea52
+ò
+hCalculationConsoleTest/obj/Debug/net6.0/CalculationConsoleTest.GeneratedMSBuildEditorConfig.editorconfig,3\f\3fa308014ebaae8bcea4fab243214c56c1d7cd5b
+Ä
+PCalculationConsoleTest/obj/Debug/net6.0/CalculationConsoleTest.GlobalUsings.g.cs,f\7\f7f343b0ad0d87227ade0e5ff8513eda3cb37676
+F
+CalculationConsole.sln,0\8\08968a84831807f6a26957553f509bdceafa0845
+ê
+`CalculationConsole/obj/Debug/net6.0/CalculationConsole.GeneratedMSBuildEditorConfig.editorconfig,f\6\f6ea3724295ae16889b7a69a7ac1c2695a4e1615
+x
+HCalculationConsole/obj/Debug/net6.0/CalculationConsole.GlobalUsings.g.cs,e\a\eae657be61d47f5c5a6447da74224748a610c65b
